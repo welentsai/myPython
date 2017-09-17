@@ -1,0 +1,96 @@
+﻿use [Rihcheng]
+go
+Delete From RCHMH
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-00','房租')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-01','現金')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-02','營所稅')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-03','營業稅')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-04','勞務費')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-05','電費')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-06','電話費')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-07','勞保費')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-08','健保費')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-09','結算')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-10','會-文具')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-11','勞退基金')
+go
+Insert Into RCHMH (MH01,MH02) Values ('1-12','出口貨物代收費')
+go
+Insert Into RCHMH (MH01,MH02) Values ('2-00','清洗')
+go
+Insert Into RCHMH (MH01,MH02) Values ('2-01','刻字')
+go
+Insert Into RCHMH (MH01,MH02) Values ('2-02','運費')
+go
+Insert Into RCHMH (MH01,MH02) Values ('2-03','紙箱')
+go
+Insert Into RCHMH (MH01,MH02) Values ('2-04','焊補')
+go
+Insert Into RCHMH (MH01,MH02) Values ('2-05','放電')
+go
+Insert Into RCHMH (MH01,MH02) Values ('2-06','鐵板')
+go
+Insert Into RCHMH (MH01,MH02) Values ('2101','清洗12"')
+go
+Insert Into RCHMH (MH01,MH02) Values ('3-00','電木')
+go
+Insert Into RCHMH (MH01,MH02) Values ('3-01','鐵氟龍')
+go
+Insert Into RCHMH (MH01,MH02) Values ('3-02','軟體')
+go
+Insert Into RCHMH (MH01,MH02) Values ('3-03','第四軸維修')
+go
+Insert Into RCHMH (MH01,MH02) Values ('3-04','機械維修')
+go
+Insert Into RCHMH (MH01,MH02) Values ('3-05','材料')
+go
+Insert Into RCHMH (MH01,MH02) Values ('4-01','鐵屑')
+go
+Insert Into RCHMH (MH01,MH02) Values ('4-02','潤滑油')
+go
+Insert Into RCHMH (MH01,MH02) Values ('5-01','加油')
+go
+Insert Into RCHMH (MH01,MH02) Values ('5-02','郵資')
+go
+Insert Into RCHMH (MH01,MH02) Values ('5-03','過路費')
+go
+Insert Into RCHMH (MH01,MH02) Values ('5-04','汽車維修')
+go
+Insert Into RCHMH (MH01,MH02) Values ('6-01','五金')
+go
+Insert Into RCHMH (MH01,MH02) Values ('6-02','油壓五金')
+go
+Insert Into RCHMH (MH01,MH02) Values ('6-03','中心鉆')
+go
+Insert Into RCHMH (MH01,MH02) Values ('6-04','刀具')
+go
+Insert Into RCHMH (MH01,MH02) Values ('6-05','加工費')
+go
+Insert Into RCHMH (MH01,MH02) Values ('8-01','雜項')
+go
+Insert Into RCHMH (MH01,MH02) Values ('8-02','文具用品')
+go
+Insert Into RCHMH (MH01,MH02) Values ('8-03','氣泡紙')
+go
+Insert Into RCHMH (MH01,MH02) Values ('8-04','便當')
+go
+Insert Into RCHMH (MH01,MH02) Values ('8-05','模具費')
+go
+Insert Into RCHMH (MH01,MH02) Values ('9-03','薪資')
+go
+Insert Into RCHMH (MH01,MH02) Values ('a101','材料')
+go
+Insert Into RCHMH (MH01,MH02) Values ('a102','郵資')
+go
