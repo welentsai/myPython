@@ -29,5 +29,5 @@ class TwCap(Document):
 
 # find with condition
 for cap in TwCap.objects(price='30951400'):
-	print(cap['date'], end=' , price: ')
-	print(cap['price'])
+	print(cap.date, end=' , price: ')
+	print(cap.price)
