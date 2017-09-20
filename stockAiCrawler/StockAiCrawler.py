@@ -31,3 +31,18 @@ class StockAiCrawler:
 	def display(self):
 		for row in self.jsonObj['rows']:
 			print(row)
+
+	# only thing to do is to return a iterator (any object that implements a __next__() method)
+	def __iter__(self):
+		self.idx = 0
+		return self
+
+	def __next__(self):
+		if self.idx >= len(self.jsonObj['rows']):
+			raise StopIteration
+		result = self.jsonObj['rows'][self.idx]
+		self.idx += 1
+		return result
+
+
+
